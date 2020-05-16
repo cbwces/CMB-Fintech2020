@@ -12,6 +12,7 @@
 解压数据
 
 `cd ./CMB-Fintech2020`
+
 `tar -xjvf ./train.tar.bz2 && tar -xjvf ./test.tar.bz2`
 
 运行
